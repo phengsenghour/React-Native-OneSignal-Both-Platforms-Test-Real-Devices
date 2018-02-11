@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_0f1fe42d134dabfbae842b66eac5bda99da76da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_91c3da7c6985459c09a0d5cc384907df4e972bad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_75a9967263913182c505e614a677c07c9119773e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-11.0.4_b10940b12d939da23ba272c37f2182e2d3fa68a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_37b6189147b8e03fb5dae804f8244a3bb72de6d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_06a8759ce2b47944028bb4e920bbc323b3a90f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-11.0.4_5893adef7f260292c28077f0fc862a22329de96f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_50abff33fbed22cfbab389ff5cb77f1f04b16643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_a20e37e81e19335d74c6aab734344169892d7c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_4a281817c305cee8bb301f858ce9b7022035ccfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_d9c895dcaf7faecd740451a08a7df5150c31c0d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_14ce84a67b835ff0315daac7286c7073983f2376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-11.0.4_e7bdef53047a5b3281b135110ec0b773ab37ad65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_4a5527d85a047fdceecca3fb12f185363d1e0d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_62a78a3191deabdd8894fde6bbce200297922a87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_5938555ccbf9460329973b53955baea731d8ba59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bbdf03f682d6e73fb28469d871dda15f1e50b617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/RNNotification/react-native-onesignal/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5916e32dfa01d941f8c2a5c3519c74193891242e">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/RNNotification-react-native-onesignal-unspecified_1aae7aec399a9e6915c2fdfa316eed0a065d3f8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_aa3c672e890cf23702161506cceb888cca6caa93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_2ac34bff40a10d9ef45a141b519c60fa2b1cca7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_35cf678dbb8f92a95fbd8a5d1a5e3edba678c611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_d0d9387090ada07db82def1bcf8608643b84682e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_cde006d351be8103f75b6e73c726657bb64cc734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_89c6a6fa242f8e8a0fcd4ebb4e9d6a89acd81757.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.7.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cf8f13d470972c00ecb19ebacb8780a2d151111">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.onesignal-OneSignal-3.7.1_9e184f868c3950cb1e34659ee77c87762f81edf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_3305e74b705788137737cf69eb132f52e438a550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_44296869919cc8f7d73a97826c8b8904bd45139b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_8ba69c1ab96bb2d31a2b90881abd0bc6511231ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_8c9fa90a48f689da68ddbaeb61e477b3ca5f8cae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a51262d663efadea9d0c402a5e76aace2685cb">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.0_b691605209203ac8483fd156ba76d8ecc5005127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_7122624fd5bad4ec2ad3a7eb25649409e53db98c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a8bdc9b46608b32b1dee90ec3726b969bb30cdfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_f2ab816e47b3358e8c4b53c716f7f781dd5bcbfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_92664aee1601254ebaaefb817111c524faf56fd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_521f42045de4b58f6244a756bbf8cf3add326971.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/phengsengvuthy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/phengsengvuthy/Desktop/RNNotification/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_cfdccf030cbcbea782cbf8ecc71642b8f41f242b.jar" />
+    </item>
+
+</items>
